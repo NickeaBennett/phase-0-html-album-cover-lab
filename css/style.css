@@ -69,7 +69,13 @@ span {
   vertical-align: top;
   padding-top: 10px;
 }
-
+.columns {
+  width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+  display: flex;
+  
+}
 img {
   display: inline-block;
   margin: 0 40px;
